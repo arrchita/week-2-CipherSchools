@@ -10,10 +10,17 @@ console.log(isNaN('five'));
 
 //truthy values: any value except 0 and false
 //falsy values: 0 false ''NaN undefined
-if(hello){
+if(0){
     console.log("very true!!");
 }else{
     console.log("soo wrong boohoo!")
 }
+
+//Datatypes 
+// primitive datatypes
+// Number,string, boolean, undefined
+
+// Refrence datatypes
+// objects, arrays, functions
 
 
