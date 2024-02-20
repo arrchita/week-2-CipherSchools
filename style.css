@@ -1,0 +1,8 @@
+.pizza{
+border: 2px solid black;
+width: 200px;
+padding: 10px
+display: inline-block;
+background: lightsalmon;
+color: white;
+}
